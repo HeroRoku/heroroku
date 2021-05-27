@@ -11,7 +11,7 @@
  - 💭 **M**arveling over open source projects
  - 📧 **E**asily reached at jevontimmons@gmail.com
 
-[![Jevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroRoku)](https://github.com/HeroRoku/github-readme-stats)
+[![Jevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroRoku&count_private=true&show_icons=true&theme=dark)](https://github.com/HeroRoku/github-readme-stats)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
